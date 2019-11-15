@@ -1,0 +1,45 @@
+﻿[Wait]
+Path=Halo 3 BR crosshairs (Busy).ani
+
+[UpArrow]
+Path=Halo 3 BR crosshairs (Alternate Select).cur
+
+[IBeam]
+Path=Halo 3 BR crosshairs (Text Select).cur
+
+[NWPen]
+Path=Halo 3 BR crosshairs (Handwriting).cur
+
+[SizeWE]
+Path=Halo 3 BR crosshairs (Horizontal Resize).cur
+
+[SizeNS]
+Path=Halo 3 BR crosshairs (Vertical Resize).cur
+
+[SizeAll]
+Path=Halo 3 BR crosshairs (Move).cur
+
+[No]
+Path=Halo 3 BR crosshairs (Unavailable).cur
+
+[SizeNWSE]
+Path=Halo 3 BR crosshairs (Diagonal Resize 1).cur
+
+[SizeNESW]
+Path=Halo 3 BR crosshairs (Diagonal Resize 2).cur
+
+[Arrow]
+Path=Halo 3 BR crosshairs (Normal Select).cur
+
+[Hand]
+Path=Halo 3 BR crosshairs (Link Select).cur
+
+[Help]
+Path=Halo 3 BR crosshairs (Help Select).cur
+
+[Crosshair]
+Path=Halo 3 BR crosshairs (Precision Select).cur
+
+[AppStarting]
+Path=Halo 3 BR crosshairs (Working in Background).ani
+
