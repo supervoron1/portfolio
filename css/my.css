@@ -34,7 +34,7 @@ body {
 nav {
     padding-left: 70px;
     padding-right: 70px;
-    font-size: 1.4em;
+    font-size: 2.2em;
 }
 
 nav img {
@@ -56,6 +56,7 @@ nav img {
 /* my name */
 .navbar-brand {
     padding-left: 0;
+    font-size: 1em;
 }
 
 .navbar-default .navbar-brand {
@@ -143,6 +144,9 @@ nav img {
     .navbar > .container .navbar-brand, .navbar > .container-fluid .navbar-brand {
         margin-left: 0;
     }
+    .nav{
+        font-size: .9em;
+    }
 }
 
 @media (max-width: 767px) {
@@ -154,6 +158,7 @@ nav img {
     .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
         color: #333;
     }
+
 }
 
 /* main buttons */
